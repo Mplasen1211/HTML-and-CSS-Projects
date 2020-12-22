@@ -1,0 +1,9 @@
+body {
+    background-color: #B0E0E6;
+}
+
+div {
+    border-style: dotted;
+    border-width: thick 2px;
+    border-color: #FF0000;
+}
